@@ -8,10 +8,6 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
  - Crie o projeto ContaBanco que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
    Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codificação do nosso programa.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
 ## Descrição do Desafio
 
 <> Revise sobre terminal, main args e a classe Scanner
